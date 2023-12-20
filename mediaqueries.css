@@ -1,0 +1,8 @@
+@media screen and (max-width: 800px) {
+  .navbar-desk {
+    display: none;
+  }
+  .nav-small {
+    display: flex;
+  }
+}
